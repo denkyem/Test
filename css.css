@@ -1,0 +1,31 @@
+/*
+.WB_HeaderMessage {
+    position: relative;
+    overflow: hidden;
+}
+
+.WB_HeaderMessage.message {
+    position: absolute;
+    left: 40px;
+    top: 0;
+    height: 100%;
+    width: 200%;
+    animation: slideshow 30s linear infinite;
+    
+}
+
+.WB_HeaderMessage .icon {
+    position: block;
+    top:0;
+    left: 0;
+    height: 100%;
+    width: 40px;
+}
+
+
+@keyframes slideshow {
+    0% { left:  40px }
+    100% { left: -200%; }
+}
+
+.message:hover span {-webkit-animation-play-state: paused;-moz-animation-play-state: paused;-o-animation-play-state: paused;animation-play-state: paused;}*/
